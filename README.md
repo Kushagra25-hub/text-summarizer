@@ -4,10 +4,6 @@ A web application for abstractive text summarization built with **FastAPI** and 
 
 ---
 
-## 🚀 Demo
-
-![alt text](image.png)
-
 ## ✨ Features
 
 - 🤖 Fine-tuned T5 Transformer model
